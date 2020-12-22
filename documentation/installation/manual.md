@@ -56,6 +56,17 @@ If you are running Home Assistant in a python venv, the user running Home Assist
 
 Restart Home Assistant once before moving to the next step.
 
-### Step 5 - ✏️
+### Step 5 - Add HACS to your configuration✏️
 
 You should now be done, next part will be to add it to your [configuration](configuration/start.md).
+You need to have a GutHub account - if you don't have a GitHub account, you can easily create one at the GitHub sign in page.
+
+First, in a separate tab in your browser, sign in to GitHub at GitHub.com
+
+Go back to Home Assistant/Configuration/Integrations
+
+Click the 'Add' button
+Search for HACS and click it to install and follow the instructions
+During installation, it will provide a code for you to enter into GitHub
+Enter this, then when the installation is completed, click 'Finish'.
+HAC is installed and you will find it in the left-hand menu.
